@@ -1,3 +1,19 @@
+.downloadResume{
+    background-image: url("https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227__480.jpg");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 400px; /* You must set a specified height */
+    /* background-position: center; Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+}
+
+.text{
+    padding-top: 100px;
+}
+
 h2{
-    margin-top: 50px;
+    /* margin-top: 10px;
+    padding-top: 10px; */
+    color: crimson;
+   
 }
